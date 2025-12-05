@@ -86,5 +86,6 @@
   - Thực hiện đánh giá, vẽ confusion matrix, ROC, bảng so sánh chỉ số.
   - Phân tích kết quả, nhận xét về mất cân bằng dữ liệu, so sánh mô hình, viết kết luận.
   - Chuẩn bị README, hoàn thiện cấu trúc thư mục, kiểm tra notebook chạy Run all.
+  - Viết phần báo cáo Tinh chỉnh báo cáo 
 
 
