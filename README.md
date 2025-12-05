@@ -2,8 +2,8 @@
 
 ## 1. Thông tin chung
 
-- Môn học: Học máy  
-- Thông tin giảng viên hướng dẫn: Trương Vĩnh Lân
+- Môn học: Học máy (CO3117) - Học kỳ: 251 - Năm học 2025 
+- Thông tin giảng viên hướng dẫn: Tiến sĩ Trương Vĩnh Lân
 - Chủ đề: 4.1 – Học máy với dữ liệu dạng bảng (Tabular Data)  
 - Dataset: Adult / Census Income (UCI Machine Learning Repository)  
 - Bài toán: Dự đoán thu nhập cá nhân `<=50K` hay `>50K` dựa trên thông tin nhân khẩu học và công việc.  
