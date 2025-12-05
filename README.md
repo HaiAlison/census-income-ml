@@ -76,8 +76,8 @@
   - Tìm kiếm và chuẩn bị dữ liệu Adult.
   - Thực hiện EDA: thống kê, vẽ biểu đồ, phân tích phân phối và tương quan.
   - Thiết kế và cài đặt pipeline tiền xử lý (missing value, mã hóa, chuẩn hóa, chia train/test).
-  - Viết các phần báo cáo: Giới thiệu, Mô tả dữ liệu, EDA, Tiền xử lý.
   - Cài đặt và huấn luyện các mô hình: Logistic Regression, Random Forest
+  - Viết các phần báo cáo: Giới thiệu, Mô tả dữ liệu, EDA, Tiền xử lý, Mô hình học máy truyền thống.
 
 
 - Nguyễn Đức Việt – 2115274 –
@@ -85,7 +85,8 @@
   - Cài đặt và huấn luyện mô hình Tensorflow Keras.
   - Thực hiện đánh giá, vẽ confusion matrix, ROC, bảng so sánh chỉ số.
   - Phân tích kết quả, nhận xét về mất cân bằng dữ liệu, so sánh mô hình, viết kết luận.
-  - Chuẩn bị README, hoàn thiện cấu trúc thư mục, kiểm tra notebook chạy Run all.
-  - Viết phần báo cáo Tinh chỉnh báo cáo 
+  - Chuẩn bị README, chỉnh sửa format báo cáo, hoàn thiện cấu trúc thư mục, kiểm tra notebook chạy Run all.
+  - Viết các phần báo cáo về mô hình: Mô hình Deep Learning (tf.keras), phân tích – so sánh kết quả, nhận xét về mất cân bằng dữ liệu và kết luận.
+
 
 
